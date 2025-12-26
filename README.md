@@ -9,3 +9,4 @@ https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submission
 https://leetcode.com/problems/number-of-good-pairs/submissions/1866020358/
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1866022857/
 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/1866028151/
+https://leetcode.com/problems/xor-operation-in-an-array/submissions/1866029700/
