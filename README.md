@@ -7,3 +7,4 @@ https://leetcode.com/problems/counting-bits/submissions/1866000984/
 https://leetcode.com/problems/defanging-an-ip-address/submissions/1866011186/
 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1866017087/
 https://leetcode.com/problems/number-of-good-pairs/submissions/1866020358/
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1866022857/
